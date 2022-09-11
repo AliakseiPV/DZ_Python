@@ -10,7 +10,7 @@ def OddSum (numbers):
     sum = 0
     while(i < len(numbers)):
         sum+=numbers[i]
-        i+=2   
+        i += 2   
     return sum
 
 print(OddSum(myList))
