@@ -5,8 +5,13 @@
 import math
 
 d = (input("Indicate the accurancy: ")).split(".")
-dec = len(d[1])
+
+def PiNumber(accuracy):
+    dec = len(accuracy[1])
+    pi =str(math.pi)
+
+    finalpi = pi[:2+dec]
+    return float(finalpi)
 
 
-pi =(math.pi)
-print(round(pi,dec))
+print(PiNumber(d))
