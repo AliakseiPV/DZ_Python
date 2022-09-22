@@ -9,7 +9,7 @@ d = (input("Indicate the accurancy: ")).split(".")
 def PiNumber(accuracy):
     dec = len(accuracy[1])
     pi =str(math.pi)
-
+    print(dec)
     finalpi = pi[:2+dec]
     return float(finalpi)
 

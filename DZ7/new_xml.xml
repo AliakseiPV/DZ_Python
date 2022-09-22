@@ -1,0 +1,16 @@
+<xml>
+    <name_view units = "">Alex</name_view>
+    <last_name_view units = "">Lol</last_name_view>
+    <date_view units = "">1990-01-25 00:00:00</date_view>
+    <phone_view units = "">1990-01-25 00:00:00</phone_view>
+</xml><xml>
+    <name_view units = "">Slava</name_view>
+    <last_name_view units = "">Proger</last_name_view>
+    <date_view units = "">1987-06-17 00:00:00</date_view>
+    <phone_view units = "">1987-06-17 00:00:00</phone_view>
+</xml><xml>
+    <name_view units = "">Serg</name_view>
+    <last_name_view units = "">anonimus</last_name_view>
+    <date_view units = "">1985-04-27 00:00:00</date_view>
+    <phone_view units = "">1985-04-27 00:00:00</phone_view>
+</xml>
