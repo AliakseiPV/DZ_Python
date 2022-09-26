@@ -5,7 +5,7 @@ from user_interface import phone_view
 
 def create(data):
         n,l,d,p = data        
-        with open('new_txt.txt', 'a') as page:
+        with open('my_txt.txt', 'a') as page:
                 page.write(f'Name: {n}\t')
                 page.write(f'Last name: {l}\t')
                 page.write(f'Birth date: {d}\t')

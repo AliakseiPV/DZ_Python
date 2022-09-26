@@ -19,3 +19,5 @@ def get_phone_number():
 
 def data_collection():
     return (get_name(), get_last_name(),get_date(),get_phone_number())
+
+    
