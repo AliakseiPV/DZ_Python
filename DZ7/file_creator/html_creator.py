@@ -17,5 +17,5 @@ def create(data):
         .format(style, p)
     html += '  </body>\n</html>'
     
-    with open('new_html.html', 'a') as page:
+    with open('Q:\Python\DZ\DZ_Python\DZ7\data\my_html.html', 'a') as page:
         page.write(html)

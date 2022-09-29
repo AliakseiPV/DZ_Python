@@ -16,7 +16,7 @@ def create(data):
         .format(d)
     xml += '</xml>'
 
-    with open('new_xml.xml', 'a') as page:
+    with open('Q:\Python\DZ\DZ_Python\DZ7\data\my_xml.xml', 'a') as page:
         page.write(xml)
 
     return data
